@@ -62,7 +62,7 @@ Asegúrate de descargar la biblioteca externa para la manipulación de archivos 
 Este proyecto fue desarrollado en Visual Studio 2022.
 
 ## Capturas de Pantalla
-quí se presentan algunas capturas de pantalla del programa en ejecución:
+Aquí se presentan algunas capturas de pantalla del programa en ejecución:
 
 Interfaz principal:
 
