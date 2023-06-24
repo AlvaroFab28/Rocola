@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Danielle Questier",
+        "procedencia": "Portugal",
+        "genero": "Cumbia"
+    },
+    {
+        "nombre": "Tristan Robson",
+        "procedencia": "China",
+        "genero": "Romantica"
+    },
+    {
+        "nombre": "BLA BLA",
+        "procedencia": "Peru",
+        "genero": "Chicha"
+    },
+    {
+        "nombre": "Shakira",
+        "procedencia": "Colombia",
+        "genero": "Pop"
+    }
+]
